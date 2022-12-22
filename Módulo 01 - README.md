@@ -50,6 +50,16 @@
 <h3>ex25 - String dentro de outra String</h3>
 <p>O usuário digita seu nome completo e caso o nome tenha “Silva” a maquina printa o sobrenome “Silva” na tela.</p>
 
+<h3>ex24 - “Santos”  in Cidade  </h3>
+<p>O programa recebe a cidade onde o usuário nasceu, caso a cidade tenha ‘Santo’ no nome o programa responde como TRUE, caso contrário ela responde como FALSE.</p>
+
+<h3>ex23 - Separador Decimal </h3>
+<p>O usuário informa um número inteiro ao sistema, onde ele o analisa e o divide em dezenas de milhar, milhar, centenas, dezenas e unidades.</p>
+
+<h3>ex22 - Manipulação de Strings</h3>
+<p>O usuário informa seu nome e o programa retorna como o nome ficaria em maiúsculo, minúsculo, quantas letras o nome completo possui e quantas letras o primeiro nome possui.</p>
+
+
 
 
 
