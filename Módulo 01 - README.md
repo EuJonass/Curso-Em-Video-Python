@@ -3,7 +3,6 @@
 <h3>ex40 - Bot Básico de Comenários no TikTok!</h3>
 <p>Desenvolvi esse projeto para conhecer ainda mais as bibliotecas <strong>'pyautogui'</strong> e <strong>'time'</strong>. Para usar o bot é necessário informar os pixeis nos quais serão clicados, tanto para minimizar a tela do editor de código usado como também para clicar na área de escrita. Para achar a posição de click usei o módulo <strong>'position'</strong> presente na biblioteca <strong>'pyautogui'</strong>.</p>
 
-
 <h3>ex39 - Acerte o Número - Versão 1</h3>
 <p>O jogo começa com a escolha aleatória de um número pelo computador, indo de 1 até 25. O jogador então deve chutar um número visando acertar o número escolhido pela máquina, e caso o erre o programa informa se ele deve chutar um valor maior ou menor. O jogo só acaba quando o jogador acertar o número escolhido pela máquina, caso contrário o sistema continua rodando.</p>
 
@@ -32,8 +31,10 @@
 <p>O programa recebe a velocidade do automóvel, se a velocidade for abaixo de 80km/h o programa diz para o motorista seguir com cuidado e se caso a velocidade ultrapassar 80 km/h a multa é feita, levando em base R$7.00 a cada km/h ultrapassado.  -- Velocidade = 85km/h -- Acima = 5 km/h -- Multa = 5 * 7 = R$35.00
 </p>
 
+<br>
  <h3>ex30 -  Acerte o Número - Versão 0 </h3>
 <p>O Programa escolhe um número aleatório entre 0 e 5, após a escolha o usuário tem apenas uma chance para acertar o número. Caso acerte, o programa informa ao usuário qual havia sido o número escolhido.</p>
+
 
 <h3>ex29 - Nome Bonito </h3>
 <p> O programa recebe o nome do usuário e caso ele seja igual a ‘Jonas’ a máquina responde “Que nome bonito! Tenha um Bom Dia!! Se acaso o nome for diferente, o programa apenas dá "Bom Dia”.</p>
@@ -62,6 +63,7 @@
 <h3>ex21 - Primeira vez Tocando um MP3</h3>
 <p>Executando esse código, o programa inicializa o toque do arquivo MP3 selecionado. Para interromper a reprodução é necessário cancelar a execução do programa.</p>
 
+<br>
 <h3> ex20 - Sorteando um Nome da Lista</h3>
 <p> O usuário informa 4 nomes, onde eles formam uma lista. Ao final é escolhido de forma aleatória um dos nomes presentes na lista, sendo ele printado na tela.</p>
 
@@ -92,6 +94,7 @@
 <h3>ex11 - Quanta Tinta Preciso ?</h3>
 <p>Para o funcionamento do programa é necessário informar a altura e o comprimento da parede, através disso é calculada a área e quantos litros de tinta serão necessários para pintar completamente a parede, levando em conta que um litro de tinta pinta 2 metros quadrados.</p>
 
+<br>
 <h3>ex10 - Convertendo Moedas - Versão 1</h3>
 <p>O sistema pergunta ao usuário o valor em R$ que deseja ser convertido, com isso o programa informa a conversão em quatro moedas distintas, sendo elas: Dólar, Euro, Kwanzas e Libras.</p>
 
