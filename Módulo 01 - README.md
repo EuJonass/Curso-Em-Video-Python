@@ -59,9 +59,68 @@
 <h3>ex22 - Manipulação de Strings</h3>
 <p>O usuário informa seu nome e o programa retorna como o nome ficaria em maiúsculo, minúsculo, quantas letras o nome completo possui e quantas letras o primeiro nome possui.</p>
 
+<h3>ex21 - Primeira vez Tocando um MP3</h3>
+<p>Executando esse código, o programa inicializa o toque do arquivo MP3 selecionado. Para interromper a reprodução é necessário cancelar a execução do programa.</p>
 
+<h3> ex20 - Sorteando um Nome da Lista</h3>
+<p> O usuário informa 4 nomes, onde eles formam uma lista. Ao final é escolhido de forma aleatória um dos nomes presentes na lista, sendo ele printado na tela.</p>
 
+<h3>ex19 - Sorteando um Aluno </h3>
+<p>Para a execução desse programa o usuário deve informar o nome de cinco alunos, ao final é criado uma lista com os nomes. Para o sorteio do nome, usamos a biblioteca ‘RANDON’ e ao final o nome do aluno escolhido é printado na tela.</p>
 
+<h3>ex18 - Calculando Seno, Cosseno e Tangente a partir de um  ngulo </h3>
+<p>O usuário informa ao programa qual o valor do ângulo escolhido, após receber a informação ela apresenta o valor do seno, cosseno e tangente. A biblioteca utilizada foi a ‘MATH’</p>
+
+<h3>ex17 - Calculando medida de Hipotenusa</h3>
+<p>O programa pede ao usuário o valor do Cateto Oposto e o valor do Cateto Adjacente, com essas informações é calculado o valor da hipotenusa.</p>
+
+<h3>ex16 -  Aprendendo a Truncar um número</h3>
+<p>O usuário informa o número desejado e o programa trunca o, assim apresentando apenas a parte inteira do mesmo.</p>
+
+<h3>ex15 - Calculando o Aluguel de um Carro</h3>
+<p>Nesse programa o usuário deve informar o total de dias, quilometros rodados, preço da diária e preço por km negociado pelo aluguel do carro. Com essas informações o programa calcula qual será o valor total do aluguel, para que o assinante faça o pagamento. </p>
+
+<h3>ex14 - Conversor de Temperaturas  </h3>
+<p>Para o funcionamento desse projeto o usuário deve enviar à temperatura em Cº, com isso o programa converter de Celsius para Fahrenheit e Kelvin.</p>
+
+<h3>ex13 - Reajuste Salarial de Funcionário</h3>
+<p>O usuário deve informar qual o salário atual do funcionário e também deve ser informado o percentual de aumento, com essas informações o programa calcula e apresenta o novo salário com o reajuste.</p>
+
+<h3>ex12 - Calculando Desconto de Produto</h3>
+<p> Neste programa o usuário deve informar o valor do produto sem o desconto e qual é a porcentagem de desconto que será aplicada, com isso o programa apresenta o valor do produto sem o desconto, com o desconto, e o valor do desconto.</p>
+
+<h3>ex11 - Quanta Tinta Preciso ?</h3>
+<p>Para o funcionamento do programa é necessário informar a altura e o comprimento da parede, através disso é calculada a área e quantos litros de tinta serão necessários para pintar completamente a parede, levando em conta que um litro de tinta pinta 2 metros quadrados.</p>
+
+<h3>ex10 - Convertendo Moedas - Versão 1</h3>
+<p>O sistema pergunta ao usuário o valor em R$ que deseja ser convertido, com isso o programa informa a conversão em quatro moedas distintas, sendo elas: Dólar, Euro, Kwanzas e Libras.</p>
+
+<h3>ex09 - Tabuada - Versão 1</h3>
+<p>O usuário deve informar o número para ver sua tabuada, após isso o programa o printa na tela de forma formatada.</p>
+
+<h3>ex08 - Conversor de Medidas</h3>
+<p>O usuário deve informar a metragem que deseja ser convertida, após isso são apresentados os valores correspondentes em KM, HM, DAM, M, DM, CM e MM.</p>
+
+<h3>ex07 - Calculando a Média Aritmética </h3>
+<p>Neste programa é necessário informar as duas notas do aluno, e em cima delas será calculada a média. Caso a média seja maior que seja o aluno será dado como aprovado, caso contrário o aluno encosta como reprovado.</p>
+
+<h3>ex06 - Calculado o Dobro, Triplo e Raiz</h3>
+<p>O usuário informar o número e o programa em cima disso calcula o dobro, triplo e a raiz do número informado.</p>
+
+<h3>ex05 - Checando o Sucessor e o Antecessor de um Número</h3>
+<p>O usuário informa o número e o programa apresenta o número, seu sucessor e seu antecessor.</p>
+
+<h3>ex04 - Dissecando Uma Variável</h3>
+<p>O programa pede ao usuário para digital algo, após isso ele checa qual o tipo primitivo, se é um número, se está em maiúsculo, se está em minúsculo e se é alfanumérico.</p>
+
+<h3>ex03 - Somando Dois Números</h3>
+<p>Para a execução desse programa o usuário deve informar dois números, que ao final serão printados junto com a soma entre eles.</p>
+
+<h3>ex02 - Fazendo um Input pela Primeira Vez</h3>
+<p>A variável N recebe o valor recebido pelo input, e após isso o programa printa que é um prazer conhecer (N).</p>
+
+<h3>ex01 - O Começo de Tudo - (Hello Word)</h3>
+<p>Primeiro programinha criado, consiste em atribuir a variável ‘msg’ e depois pintar a variável em um print.</p>
 
 # Autor
 
