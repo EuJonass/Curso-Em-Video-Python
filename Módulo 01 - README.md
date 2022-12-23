@@ -83,7 +83,7 @@
 <p>Nesse programa o usuário deve informar o total de dias, quilometros rodados, preço da diária e preço por km negociado pelo aluguel do carro. Com essas informações o programa calcula qual será o valor total do aluguel, para que o assinante faça o pagamento. </p>
 
 <h3>ex14 - Conversor de Temperaturas  </h3>
-<p>Para o funcionamento desse projeto o usuário deve enviar à temperatura em Cº, com isso o programa converter de Celsius para Fahrenheit e Kelvin.</p>
+<p>Para o funcionamento desse projeto o usuário deve enviar à temperatura em ºC, com isso o programa converter de Celsius para Fahrenheit e Kelvin.</p>
 
 <h3>ex13 - Reajuste Salarial de Funcionário</h3>
 <p>O usuário deve informar qual o salário atual do funcionário e também deve ser informado o percentual de aumento, com essas informações o programa calcula e apresenta o novo salário com o reajuste.</p>
