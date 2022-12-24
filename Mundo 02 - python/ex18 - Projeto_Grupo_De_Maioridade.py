@@ -17,9 +17,3 @@ for c in range(0, 7):
         acumuladorb += 1
 
 print("\033[34mAo total tivemos {} pessoas maior de idade. \nE {} pessoas de menor de idade.".format(acumulador, acumuladorb))
-
-
-
-
-
-
