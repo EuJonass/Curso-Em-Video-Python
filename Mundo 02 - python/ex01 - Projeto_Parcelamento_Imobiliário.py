@@ -19,8 +19,4 @@ elif prestacao < porcento:
     print("=-=" * 50)
     print("Para pagar a casa de R${:.2f} em {:.0f} anos, a parcela mensal será de R${:.0f}.".format(casa, anos, prestacao))
 
-
-
-
-
 ("Para pagar a casa de R${:.2f} em {:.0f} anos, a parcela será de {:.0f}".format(casa, anos, prestacao))
