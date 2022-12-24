@@ -5,4 +5,4 @@ for c in range(1, 7):
     if num % 2 == 0:
         soma += num
         cont += 1
-print("Voce informou {} números PARES e a soma deles é {}.".format(cont, num))
+print("Voce informou {} números PARES e o ulstimo numero digitado é {}.".format(cont, num))
